@@ -135,9 +135,9 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part2 {
     margin-top: -9px;
 }
 
-/*@media screen and (max-width: 300px) {
+@media screen and (max-width: 300px) {
     #sidebarMenu {
         transform: translateY(-1250px);
         height: 385px;
     }
-}*/
+}
